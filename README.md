@@ -102,10 +102,6 @@ This script will output the predicted class for each image.
 
 Contributions are welcome! Please fork the repository, make changes, and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - [ResNet50](https://arxiv.org/abs/1512.03385) for the pre-trained model.
